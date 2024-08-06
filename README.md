@@ -11,5 +11,5 @@
 - **Content Sections:** Displays popular shows and movies with images and descriptions.
   
 
-## Project Live Link
-- https://netflixstream.netlify.app/
+## Project Live Demo
+Check out the live demo of the project- https://netflixstream.netlify.app/
