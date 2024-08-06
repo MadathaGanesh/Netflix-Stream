@@ -9,8 +9,7 @@
 - **Navigation Bar:** Includes Home, TV Shows, Movies, and My List links.
 - **Hero Section:** A prominent section for featured content.
 - **Content Sections:** Displays popular shows and movies with images and descriptions.
+  
 
-## Installation
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/netflix-ui-project.git
+## Project Live Link
+- https://netflixstream.netlify.app/
